@@ -1,0 +1,25 @@
+Log started at 2022-12-06 08:26:53.849184
+
+
+[2022-12-06 08:26:57.246372]:  
+[2022-12-06 08:26:57.338378]:  b' \r\nNome da interface: Wi-Fi \r\nH\xa0 5 redes vis\xa1veis no momento. \r\n\r\nSSID 1 : unipampa\r\n    Tipo de rede            : Infraestrutura\r\n    Autentica\x87\xc6o            : WPA2-Enterprise\r\n    Criptografia            : CCMP\r\n\r\nSSID 2 : GAMA_IoT\r\n    Tipo de rede            : Infraestrutura\r\n    Autentica\x87\xc6o            : WPA-Personal\r\n    Criptografia            : CCMP\r\n\r\nSSID 3 : MUVBOX_dac5\r\n    Tipo de rede            : Infraestrutura\r\n    Autentica\x87\xc6o            : WPA2-Personal\r\n    Criptografia            : CCMP\r\n\r\nSSID 4 : \r\n    Tipo de rede            : Infraestrutura\r\n    Autentica\x87\xc6o            : WPA2-Personal\r\n    Criptografia            : CCMP\r\n\r\nSSID 5 : eduroam\r\n    Tipo de rede            : Infraestrutura\r\n    Autentica\x87\xc6o            : WPA2-Enterprise\r\n    Criptografia            : CCMP\r\n\r\n'
+[2022-12-06 08:27:16.094696]:  MUVBOX_dac5
+[2022-12-06 08:27:35.391139]:  Command 'netsh wlan add profile filename=Wi-Fi-MUVBOX-profile.xml' returned non-zero exit status 1.
+[2022-12-06 08:27:35.392141]:  Error netsh(Windows) or nmcli(Linux)
+[2022-12-06 08:27:42.412358]:  Timeout!
+[2022-12-06 08:27:47.427238]:  Timeout!
+[2022-12-06 08:27:47.526246]:  Erro retornando para rede original!
+[2022-12-06 08:28:01.778698]:  Command 'netsh wlan add profile filename=Wi-Fi-MUVBOX-profile.xml' returned non-zero exit status 1.
+[2022-12-06 08:28:01.779696]:  Error netsh(Windows) or nmcli(Linux)
+[2022-12-06 08:28:08.795721]:  Timeout!
+[2022-12-06 08:28:13.799482]:  Timeout!
+[2022-12-06 08:28:13.920333]:  Erro retornando para rede original!
+[2022-12-06 08:29:20.149189]:  Command 'netsh wlan add profile filename=Wi-Fi-MUVBOX-profile.xml' returned non-zero exit status 1.
+[2022-12-06 08:29:20.150188]:  Error netsh(Windows) or nmcli(Linux)
+[2022-12-06 08:29:26.294002]:  Erro retornando para rede original!
+[2022-12-06 08:30:18.867916]:  
+[2022-12-06 08:30:18.963922]:  b' \r\nNome da interface: Wi-Fi \r\nH\xa0 5 redes vis\xa1veis no momento. \r\n\r\nSSID 1 : GAMA_IoT\r\n    Tipo de rede            : Infraestrutura\r\n    Autentica\x87\xc6o            : WPA-Personal\r\n    Criptografia            : CCMP\r\n\r\nSSID 2 : MUVBOX_ec45\r\n    Tipo de rede            : Infraestrutura\r\n    Autentica\x87\xc6o            : WPA2-Personal\r\n    Criptografia            : CCMP\r\n\r\nSSID 3 : \r\n    Tipo de rede            : Infraestrutura\r\n    Autentica\x87\xc6o            : WPA2-Personal\r\n    Criptografia            : CCMP\r\n\r\nSSID 4 : eduroam\r\n    Tipo de rede            : Infraestrutura\r\n    Autentica\x87\xc6o            : WPA2-Enterprise\r\n    Criptografia            : CCMP\r\n\r\nSSID 5 : unipampa\r\n    Tipo de rede            : Infraestrutura\r\n    Autentica\x87\xc6o            : WPA2-Enterprise\r\n    Criptografia            : CCMP\r\n\r\n'
+[2022-12-06 08:30:41.264914]:  MUVBOX_ec45
+[2022-12-06 08:30:54.583058]:  Command 'netsh wlan add profile filename=Wi-Fi-MUVBOX-profile.xml' returned non-zero exit status 1.
+[2022-12-06 08:30:54.584057]:  Error netsh(Windows) or nmcli(Linux)
+[2022-12-06 08:31:00.766418]:  Erro retornando para rede original!

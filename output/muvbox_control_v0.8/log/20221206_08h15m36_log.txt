@@ -1,0 +1,11 @@
+Log started at 2022-12-06 08:15:37.124085
+
+
+[2022-12-06 08:21:17.560538]:  Connecting...
+[2022-12-06 08:21:28.883285]:  * MUVBOX_ec45 #0: Start _do_connect
+[2022-12-06 08:21:28.885287]:  * MUVBOX_ec45 #0: Could not find hostname MUVBOX_ec45
+[2022-12-06 08:21:28.887286]:  * MUVBOX_ec45 #0: Could not find hostname MUVBOX_ec45.local
+[2022-12-06 08:21:28.890287]:  * MUVBOX_c221 #1: Start _do_connect
+[2022-12-06 08:21:28.891288]:  * MUVBOX_c221 #1: Could not find hostname MUVBOX_c221
+[2022-12-06 08:21:28.892286]:  * MUVBOX_c221 #1: Could not find hostname MUVBOX_c221.local
+[2022-12-06 08:24:24.753860]:  

@@ -1,0 +1,27 @@
+Log started at 2024-11-26 15:27:34.925929
+
+
+[2024-11-26 15:28:30.951904]:  Connecting...
+[2024-11-26 15:28:38.677407]:  * MUVBOX_da75 #0: Start _do_connect
+[2024-11-26 15:28:38.678411]:  * MUVBOX_da75 #0:  IP = 192.168.137.97
+[2024-11-26 15:28:38.680414]:  * MUVBOX_da75 #0: SUCCESSFULL CONNECTED TO 192.168.137.97
+[2024-11-26 15:28:38.681415]:  * MUVBOX_da75 #0: Start command__system_info
+[2024-11-26 15:28:38.682751]:  * MUVBOX_da75 #0: free heap: 54880 mac: 4c:75:25:5c:da:75 firmware: 0 sensor task: None
+[2024-11-26 15:28:38.684755]:  * MUVBOX_da75 #0: command__system_info successful
+[2024-11-26 15:28:38.685757]:  * MUVBOX_da75 #0: Start scale procedure.
+[2024-11-26 15:28:38.687753]:  * MUVBOX_da75 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2024-11-26 15:28:38.688752]:  * MUVBOX_da75 #0: Setup done for MuvBox version FM10V000.980
+[2024-11-26 15:28:38.690755]:  * MUVBOX_da75 #0: End do_connect
+[2024-11-26 15:28:38.691762]:  * MUVBOX_c221 #1: Start _do_connect
+[2024-11-26 15:28:38.692757]:  * MUVBOX_c221 #1: Could not find hostname MUVBOX_c221
+[2024-11-26 15:28:38.693754]:  * MUVBOX_c221 #1: Could not find hostname MUVBOX_c221.local
+[2024-11-26 15:28:47.701390]:  * MUVBOX_da75 #0: Start start_reading
+[2024-11-26 15:28:47.703390]:  * MUVBOX_da75 #0: Start command__start_sensor
+[2024-11-26 15:28:47.704390]:  * MUVBOX_da75 #0: start_sensor command successful
+[2024-11-26 15:28:47.705393]:  * MUVBOX_da75 #0: Start scale procedure.
+[2024-11-26 15:28:47.706389]:  * MUVBOX_da75 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=2
+[2024-11-26 15:28:48.774637]:  * MUVBOX_da75 #0:  - rtc0: 107.028944
+[2024-11-26 15:30:19.925538]:  * MUVBOX_da75 #0: Start stop_reading
+[2024-11-26 15:30:19.926540]:  * MUVBOX_da75 #0: Start command__stop_transmission
+[2024-11-26 15:30:19.928542]:  * MUVBOX_da75 #0: Stop_transmission command successful
+[2024-11-26 15:30:19.929539]:  * MUVBOX_da75 #0: End stop_reading

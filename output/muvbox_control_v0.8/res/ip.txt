@@ -1,0 +1,2 @@
+MUVBOX_ec45,Eixo esquerdo,,0,0,3000,,
+MUVBOX_c221,Eixo direito,,0,0,3000,,

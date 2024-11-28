@@ -1,0 +1,45 @@
+Log started at 2022-11-29 09:57:11.831567
+
+
+[2022-11-29 09:59:41.310494]:  Connecting...
+[2022-11-29 09:59:43.457243]:  * MUVBOX_ec45 #0: Start _do_connect
+[2022-11-29 09:59:43.459244]:  * MUVBOX_ec45 #0:  IP = 192.168.137.99
+[2022-11-29 09:59:43.460247]:  * MUVBOX_ec45 #0: SUCCESSFULL CONNECTED TO 192.168.137.99
+[2022-11-29 09:59:43.460247]:  * MUVBOX_ec45 #0: Start command__system_info
+[2022-11-29 09:59:43.462246]:  * MUVBOX_ec45 #0: free heap: 57696 mac: 4c:75:25:5c:ec:45 firmware: 0 sensor task: None
+[2022-11-29 09:59:43.463248]:  * MUVBOX_ec45 #0: command__system_info successful
+[2022-11-29 09:59:43.464246]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-11-29 09:59:43.465250]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-11-29 09:59:43.466246]:  * MUVBOX_ec45 #0: Setup done for MuvBox version FM10V000.980
+[2022-11-29 09:59:43.467798]:  * MUVBOX_ec45 #0: End do_connect
+[2022-11-29 09:59:46.464410]:  * MUVBOX_ec45 #0: Start start_reading
+[2022-11-29 09:59:46.466413]:  * MUVBOX_ec45 #0: Start command__start_sensor
+[2022-11-29 09:59:46.468415]:  * MUVBOX_ec45 #0: start_sensor command successful
+[2022-11-29 09:59:46.469413]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-11-29 09:59:46.471415]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=2
+[2022-11-29 09:59:47.477063]:  * MUVBOX_ec45 #0:  - rtc0: 12.922621999999999
+[2022-11-29 10:00:18.537152]:  * MUVBOX_ec45 #0: Start stop_reading
+[2022-11-29 10:00:18.539158]:  * MUVBOX_ec45 #0: Start command__stop_transmission
+[2022-11-29 10:00:18.541159]:  * MUVBOX_ec45 #0: Stop_transmission command successful
+[2022-11-29 10:00:18.542160]:  * MUVBOX_ec45 #0: End stop_reading
+[2022-11-29 10:00:30.744653]:  Connecting...
+[2022-11-29 10:00:33.075137]:  * MUVBOX_ec45 #0: Start _do_connect
+[2022-11-29 10:00:33.077190]:  * MUVBOX_ec45 #0:  IP = 192.168.137.99
+[2022-11-29 10:00:33.078180]:  * MUVBOX_ec45 #0: SUCCESSFULL CONNECTED TO 192.168.137.99
+[2022-11-29 10:00:33.079177]:  * MUVBOX_ec45 #0: Start command__system_info
+[2022-11-29 10:00:33.081176]:  * MUVBOX_ec45 #0: free heap: 57656 mac: 4c:75:25:5c:ec:45 firmware: 0 sensor task: None
+[2022-11-29 10:00:33.082177]:  * MUVBOX_ec45 #0: command__system_info successful
+[2022-11-29 10:00:33.083176]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-11-29 10:00:33.084177]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-11-29 10:00:33.086179]:  * MUVBOX_ec45 #0: Setup done for MuvBox version FM10V000.980
+[2022-11-29 10:00:33.087177]:  * MUVBOX_ec45 #0: End do_connect
+[2022-11-29 10:00:36.090705]:  * MUVBOX_ec45 #0: Start start_reading
+[2022-11-29 10:00:36.092706]:  * MUVBOX_ec45 #0: Start command__start_sensor
+[2022-11-29 10:00:36.093708]:  * MUVBOX_ec45 #0: start_sensor command successful
+[2022-11-29 10:00:36.094709]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-11-29 10:00:36.094709]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=2
+[2022-11-29 10:00:36.095709]:  * MUVBOX_ec45 #0:  - rtc0: 62.329674999999995
+[2022-11-29 10:01:01.175307]:  * MUVBOX_ec45 #0: Start stop_reading
+[2022-11-29 10:01:01.177317]:  * MUVBOX_ec45 #0: Start command__stop_transmission
+[2022-11-29 10:01:01.179318]:  * MUVBOX_ec45 #0: Stop_transmission command successful
+[2022-11-29 10:01:01.180316]:  * MUVBOX_ec45 #0: End stop_reading

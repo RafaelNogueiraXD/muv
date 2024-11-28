@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\aggir\\OneDrive\\Documentos\\Documents\\GAMA\\Conversores DC-DC\\PVCell_Model\\Medidas PV Cell AC 05-jul-22",
+  "password": false,
+  "pid": 13528,
+  "port": 8889,
+  "secure": false,
+  "sock": "",
+  "token": "81bdc9a75de2f7b42c518b486eebdcc26db1ba4f52e6b327",
+  "url": "http://localhost:8889/"
+}

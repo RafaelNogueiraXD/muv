@@ -1,0 +1,66 @@
+Log started at 2023-09-04 14:03:07.022057
+
+
+[2023-09-04 14:06:03.263784]:  Connecting...
+[2023-09-04 14:06:05.728179]:  * MUVBOX_da8d #0: Start _do_connect
+[2023-09-04 14:06:05.732181]:  * MUVBOX_da8d #0:  IP = 192.168.137.138
+[2023-09-04 14:06:05.735181]:  * MUVBOX_da8d #0: SUCCESSFULL CONNECTED TO 192.168.137.138
+[2023-09-04 14:06:05.738186]:  * MUVBOX_da8d #0: Start command__system_info
+[2023-09-04 14:06:05.740182]:  * MUVBOX_da8d #0: free heap: 57168 mac: 4c:75:25:5c:da:8d firmware: 0 sensor task: None
+[2023-09-04 14:06:05.745184]:  * MUVBOX_da8d #0: command__system_info successful
+[2023-09-04 14:06:05.748184]:  * MUVBOX_da8d #0: Start scale procedure.
+[2023-09-04 14:06:05.750183]:  * MUVBOX_da8d #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2023-09-04 14:06:05.753183]:  * MUVBOX_da8d #0: Setup done for MuvBox version FM10V000.980
+[2023-09-04 14:06:05.755184]:  * MUVBOX_da8d #0: End do_connect
+[2023-09-04 14:06:05.758185]:  * MUVBOX_c221 #1: Start _do_connect
+[2023-09-04 14:06:05.761183]:  * MUVBOX_c221 #1:  IP = 192.168.137.199
+[2023-09-04 14:06:05.764191]:  * MUVBOX_c221 #1: SUCCESSFULL CONNECTED TO 192.168.137.199
+[2023-09-04 14:06:05.768187]:  * MUVBOX_c221 #1: Start command__system_info
+[2023-09-04 14:06:05.771184]:  * MUVBOX_c221 #1: free heap: 58012 mac: 34:86:5d:44:c2:21 firmware: 0 sensor task: None
+[2023-09-04 14:06:05.774186]:  * MUVBOX_c221 #1: command__system_info successful
+[2023-09-04 14:06:05.776185]:  * MUVBOX_c221 #1: Start scale procedure.
+[2023-09-04 14:06:05.779185]:  * MUVBOX_c221 #1: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2023-09-04 14:06:05.782184]:  * MUVBOX_c221 #1: Setup done for MuvBox version FM10V000.980
+[2023-09-04 14:06:05.785200]:  * MUVBOX_c221 #1: End do_connect
+[2023-09-04 14:06:10.882196]:  * MUVBOX_da8d #0: Start start_reading
+[2023-09-04 14:06:10.886198]:  * MUVBOX_da8d #0: Start command__start_sensor
+[2023-09-04 14:06:10.889206]:  * MUVBOX_da8d #0: start_sensor command successful
+[2023-09-04 14:06:10.892210]:  * MUVBOX_da8d #0: Start scale procedure.
+[2023-09-04 14:06:10.895206]:  * MUVBOX_da8d #0: Scale procedure done. Using DEGSCALE=250 GSCALE=2
+[2023-09-04 14:06:10.898207]:  * MUVBOX_c221 #1: Start start_reading
+[2023-09-04 14:06:10.901733]:  * MUVBOX_c221 #1: Start command__start_sensor
+[2023-09-04 14:06:10.904751]:  * MUVBOX_c221 #1: start_sensor command successful
+[2023-09-04 14:06:10.907751]:  * MUVBOX_c221 #1: Start scale procedure.
+[2023-09-04 14:06:10.910756]:  * MUVBOX_c221 #1: Scale procedure done. Using DEGSCALE=250 GSCALE=2
+[2023-09-04 14:06:11.762113]:  * MUVBOX_da8d #0:  - rtc0: 48.826259
+[2023-09-04 14:06:11.766108]:  * MUVBOX_c221 #1:  - rtc0: 103.162638
+[2023-09-04 14:07:36.696077]:  * MUVBOX_da8d #0: Start stop_reading
+[2023-09-04 14:07:36.699079]:  * MUVBOX_da8d #0: Start command__stop_transmission
+[2023-09-04 14:07:36.702079]:  * MUVBOX_da8d #0: Stop_transmission command successful
+[2023-09-04 14:07:36.705079]:  * MUVBOX_da8d #0: End stop_reading
+[2023-09-04 14:07:36.708080]:  * MUVBOX_c221 #1: Start stop_reading
+[2023-09-04 14:07:36.711081]:  * MUVBOX_c221 #1: Start command__stop_transmission
+[2023-09-04 14:07:36.713077]:  * MUVBOX_c221 #1: Stop_transmission command successful
+[2023-09-04 14:07:36.716080]:  * MUVBOX_c221 #1: End stop_reading
+[2023-09-04 14:08:32.064937]:  * MUVBOX_da8d #0: Start start_reading
+[2023-09-04 14:08:32.072938]:  * MUVBOX_da8d #0: Start command__start_sensor
+[2023-09-04 14:08:32.075940]:  * MUVBOX_da8d #0: start_sensor command successful
+[2023-09-04 14:08:32.079471]:  * MUVBOX_da8d #0: Start scale procedure.
+[2023-09-04 14:08:32.082465]:  * MUVBOX_da8d #0: Scale procedure done. Using DEGSCALE=250 GSCALE=2
+[2023-09-04 14:08:32.085468]:  * MUVBOX_da8d #0:  - rtc0: 189.723133
+[2023-09-04 14:08:32.088465]:  * MUVBOX_c221 #1: Start start_reading
+[2023-09-04 14:08:32.091466]:  * MUVBOX_c221 #1: Start command__start_sensor
+[2023-09-04 14:08:32.094467]:  * MUVBOX_c221 #1: start_sensor command successful
+[2023-09-04 14:08:32.097464]:  * MUVBOX_c221 #1: Start scale procedure.
+[2023-09-04 14:08:32.101464]:  * MUVBOX_c221 #1: Scale procedure done. Using DEGSCALE=250 GSCALE=2
+[2023-09-04 14:08:32.104466]:  * MUVBOX_c221 #1:  - rtc0: 244.06139399999998
+[2023-09-04 14:08:44.402851]:  * MUVBOX_da8d #0: Start stop_reading
+[2023-09-04 14:08:44.405851]:  * MUVBOX_da8d #0: Start command__stop_transmission
+[2023-09-04 14:08:44.408851]:  * MUVBOX_da8d #0: Stop_transmission command successful
+[2023-09-04 14:08:44.411851]:  * MUVBOX_da8d #0: End stop_reading
+[2023-09-04 14:08:44.415854]:  * MUVBOX_c221 #1: Start stop_reading
+[2023-09-04 14:08:44.418855]:  * MUVBOX_c221 #1: Start command__stop_transmission
+[2023-09-04 14:08:44.421849]:  * MUVBOX_c221 #1: Stop_transmission command successful
+[2023-09-04 14:08:44.424853]:  * MUVBOX_c221 #1: End stop_reading
+[2023-09-04 14:10:25.856636]:  Data saved to ./data/2023-09-04_14-10-24.667797_teste_MUVBOX_da8d.csv
+[2023-09-04 14:10:25.859633]:  Data saved to ./data/2023-09-04_14-10-24.667797_teste_MUVBOX_c221.csv

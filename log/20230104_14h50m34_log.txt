@@ -1,0 +1,70 @@
+Log started at 2023-01-04 14:50:35.984756
+
+
+[2023-01-04 14:50:42.521591]:  Connecting...
+[2023-01-04 14:50:49.335138]:  * MUVBOX_da75 #0: Start _do_connect
+[2023-01-04 14:50:49.338141]:  * MUVBOX_da75 #0: Could not find hostname MUVBOX_da75
+[2023-01-04 14:50:49.339141]:  * MUVBOX_da75 #0: Could not find hostname MUVBOX_da75.local
+[2023-01-04 14:50:49.340142]:  * MUVBOX_da8d #1: Start _do_connect
+[2023-01-04 14:50:49.341140]:  * MUVBOX_da8d #1:  IP = 192.168.137.6
+[2023-01-04 14:50:49.342142]:  * MUVBOX_da8d #1: SUCCESSFULL CONNECTED TO 192.168.137.6
+[2023-01-04 14:50:49.343141]:  * MUVBOX_da8d #1: Start command__system_info
+[2023-01-04 14:50:49.346140]:  * MUVBOX_da8d #1: free heap: 54804 mac: 4c:75:25:5c:da:8d firmware: 0 sensor task: None
+[2023-01-04 14:50:49.347140]:  * MUVBOX_da8d #1: command__system_info successful
+[2023-01-04 14:50:49.348143]:  * MUVBOX_da8d #1: Start scale procedure.
+[2023-01-04 14:50:49.350146]:  * MUVBOX_da8d #1: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2023-01-04 14:50:49.351147]:  * MUVBOX_da8d #1: Setup done for MuvBox version FM10V000.980
+[2023-01-04 14:50:49.352142]:  * MUVBOX_da8d #1: End do_connect
+[2023-01-04 14:50:53.327597]:  * MUVBOX_da8d #1: Start start_reading
+[2023-01-04 14:50:53.328598]:  * MUVBOX_da8d #1: Start command__start_sensor
+[2023-01-04 14:50:53.329598]:  * MUVBOX_da8d #1: start_sensor command successful
+[2023-01-04 14:50:53.331599]:  * MUVBOX_da8d #1: Start scale procedure.
+[2023-01-04 14:50:53.332601]:  * MUVBOX_da8d #1: Scale procedure done. Using DEGSCALE=250 GSCALE=2
+[2023-01-04 14:50:53.333600]:  * MUVBOX_da8d #1:  - rtc0: 17.264612
+[2023-01-04 14:51:00.341454]:  * MUVBOX_da8d #1: Start stop_reading
+[2023-01-04 14:51:00.342459]:  * MUVBOX_da8d #1: Start command__stop_transmission
+[2023-01-04 14:51:00.343460]:  * MUVBOX_da8d #1: Stop_transmission command successful
+[2023-01-04 14:51:00.344459]:  * MUVBOX_da8d #1: End stop_reading
+[2023-01-04 14:51:02.800791]:  Connecting...
+[2023-01-04 14:51:05.312288]:  * MUVBOX_da75 #0: Start _do_connect
+[2023-01-04 14:51:05.313290]:  * MUVBOX_da75 #0:  IP = 192.168.137.173
+[2023-01-04 14:51:05.315291]:  * MUVBOX_da75 #0: SUCCESSFULL CONNECTED TO 192.168.137.173
+[2023-01-04 14:51:05.317292]:  * MUVBOX_da75 #0: Start command__system_info
+[2023-01-04 14:51:05.318292]:  * MUVBOX_da75 #0: free heap: 57272 mac: 4c:75:25:5c:da:75 firmware: 0 sensor task: None
+[2023-01-04 14:51:05.319290]:  * MUVBOX_da75 #0: command__system_info successful
+[2023-01-04 14:51:05.320295]:  * MUVBOX_da75 #0: Start scale procedure.
+[2023-01-04 14:51:05.321292]:  * MUVBOX_da75 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2023-01-04 14:51:05.323290]:  * MUVBOX_da75 #0: Setup done for MuvBox version FM10V000.980
+[2023-01-04 14:51:05.324290]:  * MUVBOX_da75 #0: End do_connect
+[2023-01-04 14:51:05.325290]:  * MUVBOX_da8d #1: Start _do_connect
+[2023-01-04 14:51:05.325290]:  * MUVBOX_da8d #1:  IP = 192.168.137.6
+[2023-01-04 14:51:05.326289]:  * MUVBOX_da8d #1: SUCCESSFULL CONNECTED TO 192.168.137.6
+[2023-01-04 14:51:05.327291]:  * MUVBOX_da8d #1: Start command__system_info
+[2023-01-04 14:51:05.329292]:  * MUVBOX_da8d #1: free heap: 54380 mac: 4c:75:25:5c:da:8d firmware: 0 sensor task: None
+[2023-01-04 14:51:05.330292]:  * MUVBOX_da8d #1: command__system_info successful
+[2023-01-04 14:51:05.331293]:  * MUVBOX_da8d #1: Start scale procedure.
+[2023-01-04 14:51:05.333292]:  * MUVBOX_da8d #1: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2023-01-04 14:51:05.334293]:  * MUVBOX_da8d #1: Setup done for MuvBox version FM10V000.980
+[2023-01-04 14:51:05.335292]:  * MUVBOX_da8d #1: End do_connect
+[2023-01-04 14:51:09.370003]:  * MUVBOX_da75 #0: Start start_reading
+[2023-01-04 14:51:09.371004]:  * MUVBOX_da75 #0: Start command__start_sensor
+[2023-01-04 14:51:09.372005]:  * MUVBOX_da75 #0: start_sensor command successful
+[2023-01-04 14:51:09.373005]:  * MUVBOX_da75 #0: Start scale procedure.
+[2023-01-04 14:51:09.374005]:  * MUVBOX_da75 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=2
+[2023-01-04 14:51:09.375005]:  * MUVBOX_da8d #1: Start start_reading
+[2023-01-04 14:51:09.376007]:  * MUVBOX_da8d #1: Start command__start_sensor
+[2023-01-04 14:51:09.377005]:  * MUVBOX_da8d #1: start_sensor command successful
+[2023-01-04 14:51:09.378005]:  * MUVBOX_da8d #1: Start scale procedure.
+[2023-01-04 14:51:09.379006]:  * MUVBOX_da8d #1: Scale procedure done. Using DEGSCALE=250 GSCALE=2
+[2023-01-04 14:51:10.319330]:  * MUVBOX_da75 #0:  - rtc0: 30.237731
+[2023-01-04 14:51:10.320334]:  * MUVBOX_da8d #1:  - rtc0: 33.650658
+[2023-01-04 14:51:43.322911]:  * MUVBOX_da75 #0: Start stop_reading
+[2023-01-04 14:51:43.323912]:  * MUVBOX_da75 #0: Start command__stop_transmission
+[2023-01-04 14:51:43.324910]:  * MUVBOX_da75 #0: Stop_transmission command successful
+[2023-01-04 14:51:43.325912]:  * MUVBOX_da75 #0: End stop_reading
+[2023-01-04 14:51:43.327913]:  * MUVBOX_da8d #1: Start stop_reading
+[2023-01-04 14:51:43.327913]:  * MUVBOX_da8d #1: Start command__stop_transmission
+[2023-01-04 14:51:43.328913]:  * MUVBOX_da8d #1: Stop_transmission command successful
+[2023-01-04 14:51:43.329913]:  * MUVBOX_da8d #1: End stop_reading
+[2023-01-04 14:54:45.380684]:  * MUVBOX_da75 #0: Connection closed 192.168.137.173
+[2023-01-04 14:54:45.382687]:  * MUVBOX_da8d #1: Connection closed 192.168.137.6
