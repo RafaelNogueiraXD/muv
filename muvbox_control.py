@@ -986,10 +986,8 @@ class MainWindow(QMainWindow):
         else:
             self.ssidField.setText(self.networkComboBox.currentText())
 
-def main():
-    print("dsadas")
 
-def main2():
+def main():
     app = QApplication(sys.argv)
     app.setStyle(QStyleFactory.create('Fusion'))
     main = MainWindow()
@@ -1017,14 +1015,14 @@ def main2():
     main.save_data_button.clicked.connect(main.save_data)
     main.sincronizar_button.clicked.connect(main.sincronizar)
     
-    span0 = SpanSelector(main.ax2[0], main.onselect, 'horizontal', useblit=True, span_stays=True,   
-                    rectprops=dict(alpha=0.5, facecolor='green'))
+    # span0 = SpanSelector(main.ax2[0], main.onselect, 'horizontal', useblit=True, span_stays=True,   
+    #                 rectprops=dict(alpha=0.5, facecolor='green'))
     
-    span1 = SpanSelector(main.ax2[1], main.onselect, 'horizontal', useblit=True, span_stays=True,   
-                    rectprops=dict(alpha=0.5, facecolor='green'))
+    # span1 = SpanSelector(main.ax2[1], main.onselect, 'horizontal', useblit=True, span_stays=True,   
+    #                 rectprops=dict(alpha=0.5, facecolor='green'))
     
-    span2 = SpanSelector(main.ax2[2], main.onselect, 'horizontal', useblit=True, span_stays=True,   
-                    rectprops=dict(alpha=0.5, facecolor='green'))
+    # span2 = SpanSelector(main.ax2[2], main.onselect, 'horizontal', useblit=True, span_stays=True,   
+    #                 rectprops=dict(alpha=0.5, facecolor='green'))
     
     
     main.table.customContextMenuRequested.connect(main.contextMenuEvent)
